@@ -1,4 +1,4 @@
-# memenator
+# Memenator
 
 A meme generator app that uses ImageFlip's Meme API
 
